@@ -16,7 +16,7 @@
 
 ## Introduction
 
-**Testing Batch Deobfusticator** is my custom Python tool designed to deobfuscate batch scripts that have been obfuscated using string substitution and escape character techniques. This project is directly inspired by [DissectMalware's batch_deobfuscator](https://github.com/DissectMalware/batch_deobfuscator).
+**Unstable Batch Deobfusticator** is my custom Python tool designed to deobfuscate batch scripts that have been obfuscated using string substitution and escape character techniques. This project is directly inspired by [DissectMalware's batch_deobfuscator](https://github.com/DissectMalware/batch_deobfuscator).
 
 While refining and enhancing the original script, I incorporated several optimizations to improve its efficiency and usability. Enjoy using this tool! Although the original version by DissectMalware is a bit more rudimentary, I highly respect their contribution to the open-source community and have given them a star for their excellent work.
 
